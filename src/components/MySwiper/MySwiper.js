@@ -12,10 +12,10 @@ export default function SwiperComponent({ slides }) {
       effect={"coverflow"}
       centeredSlides={true}
       slidesPerView={"auto"}
-      autoplay={{
-        delay: 2500,
-        disableOnInteraction: false,
-      }}
+      // autoplay={{
+      //   delay: 2500,
+      //   disableOnInteraction: false,
+      // }}
       loop={true}
       tabIndex={1}
       coverflowEffect={{
