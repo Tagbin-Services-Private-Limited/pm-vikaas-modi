@@ -28,3 +28,8 @@ code {
   text-align: center;
   height: 50vh;
 }
+
+.pdf canvas {
+  width: 90vw !important;
+  height: 70vh !important;
+}
