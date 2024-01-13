@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react"
 import axios from "axios"
 import { Box, Button, Stack, Grid, Typography } from "@mui/material";
 import Background from './assets/images/backgrounds/main_background.png';
-import Logo from './assets/images/logos/archives.png';
+import Logo from './assets/images/logos/archivesEnglish.png';
 // import SearchIcon from "./assets/images/icons/search.png"
 import ButtonBackground1 from "./assets/images/backgrounds/button1_background.png"
 import ButtonBackground from "./assets/images/backgrounds/button6_background.png"
